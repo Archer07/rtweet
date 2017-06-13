@@ -1,0 +1,8 @@
+{
+  "name": "rtwitter",
+  "version": "1.0.0",
+  "description": "A twitter-like app built with React and Flux",
+  "main": "server.js",
+  "author": "Ayoub Nejjari <raysoflee07@gmail.com>",
+  "license": "MIT"
+}

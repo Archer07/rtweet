@@ -4,5 +4,14 @@
   "description": "A twitter-like app built with React and Flux",
   "main": "server.js",
   "author": "Ayoub Nejjari <raysoflee07@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "browserify": "^14.4.0",
+    "gulp": "^3.9.1",
+    "gulp-browserify": "^0.5.1",
+    "gulp-concat": "2",
+    "gulp-plumber": "1",
+    "reactify": "1",
+    "watchify": "^3.9.0"
+  }
 }
